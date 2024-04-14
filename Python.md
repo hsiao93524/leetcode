@@ -8,7 +8,10 @@
 | 6   | Apr 10, 2024| 21. Merge Two Sorted Lists                   | Easy       | 0        | 1  | [Link](https://leetcode.com/problems/two-sum/solutions/5000866/20240410-003/)|
 | 7   | Apr 13, 2024| 26. Remove Duplicates from Sorted Array      | Easy       | 0        | 1  | [Link](https://leetcode.com/problems/two-sum/solutions/5012861/20240413-001/)|
 | 8   | Apr 13, 2024| 27. Remove Element                           | Easy       | 0        | 1  | [Link](https://leetcode.com/problems/two-sum/solutions/5012868/20240413-002/)|
-| 9   | Apr 13, 2024| 28. Find the Index of the First Occurrence...| Easy       | 0        | 1  | [Link](https://leetcode.com/problems/two-sum/solutions/5012886/20240413-003/)|
+| 9   | Apr 13, 2024| 28. Find the Index of the First Occurrence in a String| Easy       | 0        | 1  | [Link](https://leetcode.com/problems/two-sum/solutions/5012886/20240413-003/)|
 | 10  | Apr 14, 2024| 35. Search Insert Position                   | Easy       | 0        | 1  | [Link](https://leetcode.com/problems/two-sum/solutions/5017351/20240414-001/)|
 | 11  | Apr 14, 2024| 58. Length of Last Word                      | Easy       | 0        | 1  | [Link](https://leetcode.com/problems/two-sum/solutions/5017381/20240414-002/)|
 | 12  | Apr 14, 2024| 66. Plus One                                 | Easy       | 0        | 1  | [Link](https://leetcode.com/problems/two-sum/solutions/5017448/20240414-003/)|
+| 13  | Apr 15, 2024| 67. Add Binary                               | Easy       | 0        | 1  | [Link](https://leetcode.com/problems/two-sum/solutions/5017472/)                                      |
+| 14  | Apr 15, 2024| 69. Sqrt(x)                                  | Easy       | 0        | 1  | [Link](https://leetcode.com/problems/two-sum/solutions/5017470/)                                      |
+| 15  | Apr 15, 2024| 70. Climbing Stairs                          | Easy       | 1        | 1  | [Link](https://leetcode.com/problems/two-sum/solutions/5017466/)                                      |
