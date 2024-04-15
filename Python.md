@@ -15,3 +15,6 @@
 | 13  | Apr 15, 2024| 67. Add Binary                               | Easy       | 0        | 1  | [Link](https://leetcode.com/problems/two-sum/solutions/5017472/)                                      |
 | 14  | Apr 15, 2024| 69. Sqrt(x)                                  | Easy       | 0        | 1  | [Link](https://leetcode.com/problems/two-sum/solutions/5017470/)                                      |
 | 15  | Apr 15, 2024| 70. Climbing Stairs                          | Easy       | 1        | 1  | [Link](https://leetcode.com/problems/two-sum/solutions/5017466/)                                      |
+| 16  | Apr 16, 2024 | 83. Remove Duplicates from Sorted List        | Easy       | 1        | 1  | [Link](https://leetcode.com/problems/two-sum/solutions/5027387/)                                      |
+| 17  | Apr 16, 2024 | 88. Merge Sorted Array                        | Easy       | 0        | 1  | [Link](https://leetcode.com/problems/two-sum/solutions/5027509/)                                      |
+| 18  | Apr 16, 2024 | 94. Binary Tree Inorder Traversal             | Easy       | 1        | 1  | [Link](https://leetcode.com/problems/two-sum/solutions/5027583/)                                      |
