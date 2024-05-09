@@ -48,7 +48,7 @@ bool isPalindrome(long x) {
 
     switch(solution){
         case 1:
-            return by_str(x);            
+            return by_str(x); // 15ms       
             break;
         case 2:
             return by_int(x); // 3ms
