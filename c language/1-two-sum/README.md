@@ -43,7 +43,7 @@
 
 # Code
 ## 147ms
-```
+```c
 /**
  * Note: The returned array must be malloced, assume caller calls free().
  */
