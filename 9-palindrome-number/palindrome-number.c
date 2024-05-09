@@ -44,7 +44,7 @@ bool isPalindrome(long x) {
         return true;
     }
 
-    int solution = 1;
+    int solution = 2;
 
     switch(solution){
         case 1:
