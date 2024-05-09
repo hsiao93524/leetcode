@@ -19,9 +19,9 @@ bool by_int(long x){
 
 bool by_str(long x){
     // transfer to string
-    long size = (floor(log10(x))+1);
+    int size = (floor(log10(x))+1);
     char str[size + 1]; // including '/0'
-    sprintf(str, "%l", x);
+    sprintf(str, "%d", x);
 
     int left = 0;
     int right = size - 1;
@@ -40,15 +40,18 @@ bool isPalindrome(long x) {
     if(x < 0){
         return false;
     }
+    else if(x == 0){
+        return true;
+    }
 
-    int solution = 2;
+    int solution = 1;
 
     switch(solution){
         case 1:
             return by_str(x);            
             break;
         case 2:
-            return by_int(x);
+            return by_int(x); // 3ms
             break;
         default:
             return false;
