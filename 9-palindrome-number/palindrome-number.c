@@ -44,11 +44,11 @@ bool isPalindrome(long x) {
         return true;
     }
 
-    int solution = 1;
+    int solution = 2;
 
     switch(solution){
         case 1:
-            return by_str(x); // 15ms       
+            return by_str(x); // 7-17ms       
             break;
         case 2:
             return by_int(x); // 7ms
