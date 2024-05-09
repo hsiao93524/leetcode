@@ -68,7 +68,7 @@ int* twoSum(int* nums, int numsSize, int target, int* returnSize) {
     // // printf("%d, %d, %d, %d", numsSize, sizeof(*nums), sizeof(nums[0]), sizeof(nums) / sizeof(nums[0]));
     return NULL;
 }
-```
+```c
 ## 100ms
 ```
 /**
@@ -95,7 +95,7 @@ int* twoSum(int* nums, int numsSize, int target, int* returnSize) {
     // // printf("%d, %d, %d, %d", numsSize, sizeof(*nums), sizeof(nums[0]), sizeof(nums) / sizeof(nums[0]));
     return NULL;
 }
-```
+```c
 ## 56ms
 ```
 /**
